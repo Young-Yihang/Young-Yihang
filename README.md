@@ -37,6 +37,7 @@ Robotics Engineer | Fluttering...
 <!-- 等我有一堆牛逼的开源项目后我一定要做一个满意的看板！ -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/Young-Yihang/Young-Yihang/assets/uma_clean.png" width="600" alt="ascii art" />
+茶座小姐在监视你... ▿▿
 </div>
 
 ---
