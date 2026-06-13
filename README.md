@@ -18,6 +18,7 @@ Robotics Engineer | Fluttering...
 <!-- ② 技能徽章：来自 shields.io，格式 /badge/<文字>-<色号>?logo=<图标名> -->
 <div align="center">
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
