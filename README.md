@@ -14,6 +14,7 @@ Robotics Engineer | Fluttering...
 
 - Responsible for the Engineer Robot in ARTINX RoboMaster team | Control Algorithms
 - Full-Stack Robotics System Engineer at Mondo
+- What then after graduation?
 
 <!-- ② 技能徽章：来自 shields.io，格式 /badge/<文字>-<色号>?logo=<图标名> -->
 <div align="center">
