@@ -15,36 +15,49 @@ Robotics Engineer | Fluttering...
 ---
 
 ### About me
-
+- Majored in mechanical design and mechanism theory as an undergraduate
 - Responsible for the Engineer Robot in ARTINX RoboMaster team | Control Algorithms
 - Full-Stack Robotics System Engineer at Mondo
 - What then after graduation?
 
 <!-- ② 技能徽章：来自 shields.io，格式 /badge/<文字>-<色号>?logo=<图标名> -->
+---
+### Tech Stack
 <div align="center">
-
+  
+**Languages**
+  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-</div>
+**Robotics & Simulation**
 
----
-<div align="center">
-
+![Robot Dynamics](https://img.shields.io/badge/Robot_Dynamics-00897B?style=for-the-badge)
+![Kinematics](https://img.shields.io/badge/Kinematics-00897B?style=for-the-badge)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-2C5F8A?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+**Platform & Deploy**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NVIDIA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+**Control Algorithms**
+
+![LQR](https://img.shields.io/badge/LQR-5C6BC0?style=for-the-badge)
+![MPC](https://img.shields.io/badge/MPC-5C6BC0?style=for-the-badge)
+![WBC](https://img.shields.io/badge/Whole--Body_Control-5C6BC0?style=for-the-badge)
 </div>
 
 
 ---
+
+### Contact Me
 <div align="center">
 
 <!-- ④ 社交按钮：同样是 shields.io 徽章，套个超链接就能点 -->
